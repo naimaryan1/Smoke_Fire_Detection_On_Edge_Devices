@@ -11,8 +11,8 @@ Towards Smoke and Fire detection via images using Deep Learning on resource cons
 
 <table>
     <tr>
-        <td><img src="read_me_images/fire_1.png"></td>
-        <td><img src="read_me_images/smoke_1.png"></td>
+        <td><img src="read_me_images/fire_1.png" style="width: 50%; height: 50%"></td>
+        <td><img src="read_me_images/smoke_1.png" style="width: 50%; height: 50%"></td>
     </tr>
 </table>
 
