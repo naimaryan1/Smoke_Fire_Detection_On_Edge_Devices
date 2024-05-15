@@ -6,19 +6,6 @@ Towards Smoke and Fire detection via images using Deep Learning on resource cons
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        table {
-            border-collapse: collapse;
-        }
-        td {
-            padding: 0;
-        }
-        img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-    </style>
 </head>
 <body>
 
