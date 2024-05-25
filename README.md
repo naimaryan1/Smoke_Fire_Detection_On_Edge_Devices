@@ -34,9 +34,12 @@ INSTRUCTIONS:
 
 For the corresponding Google Collab go to: https://colab.research.google.com/drive/1d6qh1uXNrlptKafsonEZLDvkHJko7wD4?usp=sharing
 
-2) For details instructions for refer to the PDF doc "Step by Step Guide for YOLOv8 Using Keras With Custom Datasets"
+2) For detailed instructions on using custom data sets for to the PDF doc "Step by Step Guide for YOLOv8 Using Keras With Custom Datasets"
 
-3) For code only refer to dir "code_only"
+3) If you are uploading custom datesets based on the guide in step you can refer to the code in the zip folder "GeneratorBasedBuilder_my_fire_smoke_dataset".
+
+4) For code only refer to dir "code_only"
+
 
 References:
 
